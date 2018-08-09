@@ -10,7 +10,7 @@ namespace Kongre.Controllers
     {
         public ActionResult Index()
         {
-            return View();//asd
+            return View();//test
         }
 
         public ActionResult About()
