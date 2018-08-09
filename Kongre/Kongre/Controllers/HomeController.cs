@@ -11,6 +11,7 @@ namespace Kongre.Controllers
         public ActionResult Index()
         {
             return View();//teasdasadasdas asd sad a d
+            //asddsfdfsfds
         }
 
         public ActionResult About()
